@@ -1,6 +1,6 @@
 // Set the launch date (10 days from now)
 const launchDate = new Date();
-launchDate.setDate(launchDate.getDate() + 10);
+launchDate.setDate(launchDate.getDate() + 15);
 
 function updateCountdown() {
     const now = new Date();
